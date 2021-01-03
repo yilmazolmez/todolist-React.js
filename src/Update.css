@@ -1,0 +1,16 @@
+.update {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 200px;
+}
+
+.update h2 {
+    margin-bottom: 20px;
+}
+
+.update form {
+    display: flex;
+
+}
