@@ -1,10 +1,11 @@
 # Todo LIST with React.js
+- Firebase
+- React Hooks
 ## Todo List App for beginner 
 
 ![todolist-reactjs](todolist.png)
 
-- Firebase
-- React Hooks
+
 
 
 # Getting Started with Create React App
