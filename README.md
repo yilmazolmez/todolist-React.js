@@ -1,5 +1,5 @@
 # Todo LIST with React.js
-## Todo List App for begginner 
+## Todo List App for beginner 
 
 ![todolist-reactjs](todolist.png)
 
